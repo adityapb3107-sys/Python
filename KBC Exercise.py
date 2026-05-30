@@ -21,36 +21,31 @@ Good luck""")
 customs
 excise
 GST
-VAT
-              """) 
+VAT""") 
     elif(i==1):
         print("""Your options are:
 Copper
 Aluminium
 Silver
-Gold
-              """) 
+Gold""") 
     elif(i==2):
         print("""Your options are:
 China
 Mexico
 Philippines
-India                          
-              """)
+India""")
     elif(i==3):
         print("""Your options are:
 5.8
 6.5
 7.4
-8
-          """)
+8""")
     elif(i==4): 
         print("""Your options are:
 30
 24.6
 27
-26 
-              """)
+26""")
     else:
         break   
     a=input()
