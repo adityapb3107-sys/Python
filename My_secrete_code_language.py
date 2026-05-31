@@ -1,4 +1,4 @@
-a=input("Enter your string: ")
+a=input("Enter your word to be encoded: ")
 if len(a)>=3:
     a1=a[1:len(a)] 
     a1=a1+ a[0]
