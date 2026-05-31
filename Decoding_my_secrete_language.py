@@ -1,4 +1,4 @@
-a=input("Enter your code language: ")
+a=input("Enter your code word: ")
 if len(a)>=9:
     a1=a[3:-4]
     a2=a[-4] + a2
